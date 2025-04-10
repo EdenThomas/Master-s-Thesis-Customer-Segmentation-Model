@@ -1,9 +1,9 @@
 # March 12 10:30
-1.Send the abstract on 15th March for confirmation
-2.Submit Abstract on 17th in Easy Chair
-3.Till 21st - prepare first vision of research methodology chapter - data , method, metrics, realization
-4. Rewrite Justification section - gap, formatting, chapter 1 with sub chapters
-5.Plan:
+1. Send the abstract on 15th March for confirmation
+2. Submit Abstract on 17th in Easy Chair
+3. Till 21st - prepare first vision of research methodology chapter - data , method, metrics, realization
+4.  Rewrite Justification section - gap, formatting, chapter 1 with sub chapters
+5. Plan:
   April 02 - 9:00 (methodology)
   11th April - 9:00 (data, collection, sources)
   GitHub - notes of meeting artifacts
